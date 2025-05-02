@@ -1,6 +1,7 @@
 # reuseall_rider
 
 A new Flutter project.
+A basic v1 for prototyping.
 
 ## Getting Started
 
